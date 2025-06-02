@@ -1,2 +1,2 @@
 # BarraDeLimite
-Aplicativo com a barra de limite interativo
+![Barra de Limite](imagens/screenshot.png)
